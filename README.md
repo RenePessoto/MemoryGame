@@ -1,5 +1,6 @@
 **   JOGO DA MEMÓRIA**
 
+exercício proposto em aula da DIO
 
 
 Tema: Liga da Justiça.
